@@ -34,6 +34,24 @@
 		</div>
 		<p class="credits">Inspirado y basado en <a href="https://codepen.io/gpyne/pen/ryPQoZ">demo</a> GooeyTextHover Effect </p>
 		<nav class="menu">
+            <a class="menu__item">
+                <svg class="menu__text" viewBox="0 0 110 20" preserveAspectRatio="xMinYMid meet">
+                    <defs>
+                        <filter id="goo-1">
+                            <feGaussianBlur in="SourceGraphic" stdDeviation="1" result="blur"></feGaussianBlur>
+                            <feColorMatrix in="blur" mode="matrix" values=" 1 0 0 0 0  
+                                                                            0 1 0 0 0  
+                                                                            1 0 1 0 0  
+                                                                            0 0 0 16 -7" result="goo"></feColorMatrix>
+                            <feComposite in="SourceGraphic" in2="goo" operator="atop"></feComposite>
+                        </filter>
+                    </defs>
+                    <g>
+                        <text x="0" y="10">Rexazyp</text>
+                        <text x="0" y="10">$1.4 billion</text>
+                    </g>
+                </svg>
+            </a>
             <a class="menu__item" href="https://www.youtube.com/watch?v=UGAb8WAmWOc" rel="nofollow" target="_blank">
                 <svg class="menu__text" viewBox="0 0 110 20" preserveAspectRatio="xMinYMid meet">
                     <defs>
