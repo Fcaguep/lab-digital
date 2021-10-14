@@ -16,7 +16,7 @@ body {
 	--color-link-hover: #000;
 	--color-menu: #000;
 	--fontsize-menu: 16px;
-	--font-menu: laca-text, sans-serif;
+	--font-menu: script, sans-serif;
 	color: var(--color-text);
 	background-color: var(--color-bg);
 	font-family: nimbus-sans-extended, sans-serif;
