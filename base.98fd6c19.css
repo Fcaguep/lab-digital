@@ -16,7 +16,7 @@ body {
 	--color-link-hover: #000;
 	--color-menu: #000;
 	--fontsize-menu: 16px;
-	--font-menu: titling-gothic-fb, sans-serif;
+	--font-menu: laca-text, sans-serif;
 	color: var(--color-text);
 	background-color: var(--color-bg);
 	font-family: nimbus-sans-extended, sans-serif;
@@ -31,7 +31,7 @@ body {
 	--color-link: #ddd;
 	--color-link-hover: #fff;
 	--color-menu: #fff;
-	--font-menu: hothouse, sans-serif;
+	--font-menu: laca-text, sans-serif;
 	--fontsize-menu: 10px;
 }
 
