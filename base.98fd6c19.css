@@ -10,7 +10,7 @@
 
 body {
 	margin: 0;
-	--color-text: #fff;
+	--color-text: linear-gradient(to top, #00c6fb 0%, #005bea 100%);
 	--color-bg: linear-gradient(to top, #00c6fb 0%, #005bea 100%);
 	--color-link: linear-gradient(to top, #00c6fb 0%, #005bea 100%);
 	--color-link-hover: #000;
