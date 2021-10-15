@@ -11,8 +11,8 @@
 body {
 	margin: 0;
 	--color-text: #fff;
-	--color-bg: #c2c6c9;
-	--color-link: #000;
+	--color-bg: linear-gradient(to top, #00c6fb 0%, #005bea 100%);
+	--color-link: linear-gradient(to top, #00c6fb 0%, #005bea 100%);
 	--color-link-hover: #000;
 	--color-menu: #000;
 	--fontsize-menu: 16px;
@@ -27,8 +27,8 @@ body {
 
 .demo-2 {
 	--color-text: #fff;
-	--color-bg: #000;
-	--color-link: #ddd;
+	--color-bg: linear-gradient(to top, #50cc7f 0%, #f5d100 100%);
+	--color-link: linear-gradient(to top, #50cc7f 0%, #f5d100 100%);
 	--color-link-hover: #fff;
 	--color-menu: #fff;
 	--font-menu: hothouse, sans-serif;
@@ -37,8 +37,8 @@ body {
 
 .demo-3 {
 	--color-text: #fff;
-	--color-bg: #e2c6cc;
-	--color-link: #000;
+	--color-bg: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
+	--color-link: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
 	--color-link-hover: #fff;
 	--color-menu: #000;
 	--font-menu: laca-text, sans-serif;
