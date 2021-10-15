@@ -37,7 +37,7 @@ body {
 
 .demo-3 {
 	--color-text: #fff;
-	--color-bg: #background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
+	--color-bg: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
 	--color-link: #000;
 	--color-link-hover: #fff;
 	--color-menu: #000;
